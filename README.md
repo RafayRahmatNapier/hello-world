@@ -1,7 +1,7 @@
 # hello-world
 My First Github Repository
 
-this is my first repository by fahim
+this is my first repository by fahima
 
 hi i am umer
 
